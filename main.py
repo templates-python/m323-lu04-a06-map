@@ -8,7 +8,7 @@ def to_uppercase(words):
     - list: List of words in uppercase.
     """
     # Your code here
-    return uppercase_list
+    return list(map(lambda x: x.upper(), words))
 
 
 if __name__ == '__main__':
