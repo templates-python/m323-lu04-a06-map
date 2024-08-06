@@ -1,0 +1,8 @@
+[
+  {
+    "name": "test_to_uppercase",
+    "function": "test_to_uppercase",
+    "timeout": 10,
+    "points": 1
+  }
+]
