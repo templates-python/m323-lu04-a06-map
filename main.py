@@ -17,6 +17,6 @@ def to_uppercase(words):
 
 
 if __name__ == '__main__':
-    words = ['apple', 'banana', 'cherry']
-    uppercase_list = to_uppercase(words)
+    demo_words = ['apple', 'banana', 'cherry']
+    uppercase_list = to_uppercase(demo_words)
     print(uppercase_list)
