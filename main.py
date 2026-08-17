@@ -1,3 +1,8 @@
+"""Umwandlung von Strings in Großbuchstaben.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/map2
+"""
+
 def to_uppercase(words):
     """
     Convert each word in the list to uppercase using the map function.
